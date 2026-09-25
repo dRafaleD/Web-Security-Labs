@@ -12,6 +12,7 @@ The goal is to understand how web applications communicate before studying vulne
 
 - [Day 1 — HTTP Fundamentals and Request/Response Analysis](labs/01-http-fundamentals/notes.md)
 - [Day 2 — HTTP Methods, Headers, Cookies, Sessions and Authentication](labs/02-http-state-and-authentication/notes.md)
+- [Day 3 — Browser Security, Same-Origin Policy, CORS and CSRF Foundations](labs/03-browser-security-sop-cors-csrf/notes.md)
 
 ## Learning path
 
@@ -31,6 +32,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 
 - [Gün 1 — HTTP Temelleri ve Request/Response Analizi](labs/01-http-fundamentals/notes.tr.md)
 - [Gün 2 — HTTP Methodları, Header'lar, Cookie'ler, Session ve Kimlik Doğrulama](labs/02-http-state-and-authentication/notes.tr.md)
+- [Gün 3 — Browser Güvenliği, Same-Origin Policy, CORS ve CSRF Temelleri](labs/03-browser-security-sop-cors-csrf/notes.tr.md)
 
 ## Öğrenme yolu
 
