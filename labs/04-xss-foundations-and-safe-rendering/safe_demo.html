@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Safe Rendering Lab</title>
+</head>
+<body>
+  <h1>Safe Rendering Lab</h1>
+  <label>
+    Training text:
+    <input id="user-input" value="<b>training</b>">
+  </label>
+  <button id="render">Render as text</button>
+  <p>Output:</p>
+  <pre id="output"></pre>
+
+  <script>
+    const input = document.getElementById("user-input");
+    const output = document.getElementById("output");
+    const button = document.getElementById("render");
+
+    button.addEventListener("click", () => {
+      output.textContent = input.value;
+    });
+  </script>
+</body>
+</html>
