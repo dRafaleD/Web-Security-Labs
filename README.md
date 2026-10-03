@@ -16,6 +16,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 4 — XSS Foundations: Output Encoding and DOM Context](labs/04-xss-foundations-and-safe-rendering/notes.md)
 - [Day 5 — Cookies, Sessions and Authentication Security](labs/05-cookies-sessions-and-authentication/notes.md)
 - [Day 6 — Authorization and Access Control Foundations](labs/06-authorization-and-access-control/notes.md)
+- [Day 7 — SQL Injection Foundations, Parameterized Queries and Input Boundaries](labs/07-sql-injection-and-parameterized-queries/notes.md)
 
 ## Learning path
 
@@ -39,6 +40,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 4 — XSS Temelleri: Output Encoding ve DOM Context](labs/04-xss-foundations-and-safe-rendering/notes.tr.md)
 - [Gün 5 — Cookie, Session ve Authentication Güvenliği](labs/05-cookies-sessions-and-authentication/notes.tr.md)
 - [Gün 6 — Authorization ve Access Control Temelleri](labs/06-authorization-and-access-control/notes.tr.md)
+- [Gün 7 — SQL Injection Temelleri, Parametreli Sorgular ve Input Sınırları](labs/07-sql-injection-and-parameterized-queries/notes.tr.md)
 
 ## Öğrenme yolu
 
