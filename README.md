@@ -18,6 +18,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 6 — Authorization and Access Control Foundations](labs/06-authorization-and-access-control/notes.md)
 - [Day 7 — SQL Injection Foundations, Parameterized Queries and Input Boundaries](labs/07-sql-injection-and-parameterized-queries/notes.md)
 - [Day 8 — Path Traversal, File Handling and Safe Resource Mapping](labs/08-path-traversal-and-safe-file-handling/notes.md)
+- [Day 9 — File Upload Security, Content Validation, Storage Isolation and Safe Serving](labs/09-file-upload-security-and-safe-serving/notes.md)
 
 ## Learning path
 
@@ -43,6 +44,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 6 — Authorization ve Access Control Temelleri](labs/06-authorization-and-access-control/notes.tr.md)
 - [Gün 7 — SQL Injection Temelleri, Parametreli Sorgular ve Input Sınırları](labs/07-sql-injection-and-parameterized-queries/notes.tr.md)
 - [Gün 8 — Path Traversal, File Handling ve Güvenli Resource Mapping](labs/08-path-traversal-and-safe-file-handling/notes.tr.md)
+- [Gün 9 — File Upload Güvenliği, Content Validation, Storage Isolation ve Güvenli Serving](labs/09-file-upload-security-and-safe-serving/notes.tr.md)
 
 ## Öğrenme yolu
 
