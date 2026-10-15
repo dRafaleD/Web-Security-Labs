@@ -20,6 +20,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 8 — Path Traversal, File Handling and Safe Resource Mapping](labs/08-path-traversal-and-safe-file-handling/notes.md)
 - [Day 9 — File Upload Security, Content Validation, Storage Isolation and Safe Serving](labs/09-file-upload-security-and-safe-serving/notes.md)
 - [Day 10 — SSRF Foundations, URL Parsing, Redirects and Egress Boundaries](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.md)
+- [Day 11 — API Security: BOLA, Mass Assignment and Rate-Limit Design](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.md)
 
 ## Learning path
 
@@ -47,6 +48,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 8 — Path Traversal, File Handling ve Güvenli Resource Mapping](labs/08-path-traversal-and-safe-file-handling/notes.tr.md)
 - [Gün 9 — File Upload Güvenliği, Content Validation, Storage Isolation ve Güvenli Serving](labs/09-file-upload-security-and-safe-serving/notes.tr.md)
 - [Gün 10 — SSRF Temelleri, URL Ayrıştırma, Redirect ve Egress Güvenliği](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.tr.md)
+- [Gün 11 — API Güvenliği: BOLA, Mass Assignment ve Rate Limit Tasarımı](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.tr.md)
 
 ## Öğrenme yolu
 
