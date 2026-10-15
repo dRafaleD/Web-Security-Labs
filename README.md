@@ -21,6 +21,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 9 — File Upload Security, Content Validation, Storage Isolation and Safe Serving](labs/09-file-upload-security-and-safe-serving/notes.md)
 - [Day 10 — SSRF Foundations, URL Parsing, Redirects and Egress Boundaries](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.md)
 - [Day 11 — API Security: BOLA, Mass Assignment and Rate-Limit Design](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.md)
+- [Day 12 — CSRF, SameSite, Origin Validation and Request Intent](labs/12-csrf-samesite-origin-and-intent/notes.md)
 
 ## Learning path
 
@@ -49,6 +50,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 9 — File Upload Güvenliği, Content Validation, Storage Isolation ve Güvenli Serving](labs/09-file-upload-security-and-safe-serving/notes.tr.md)
 - [Gün 10 — SSRF Temelleri, URL Ayrıştırma, Redirect ve Egress Güvenliği](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.tr.md)
 - [Gün 11 — API Güvenliği: BOLA, Mass Assignment ve Rate Limit Tasarımı](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.tr.md)
+- [Gün 12 — CSRF, SameSite, Origin Doğrulaması ve İstek Niyeti](labs/12-csrf-samesite-origin-and-intent/notes.tr.md)
 
 ## Öğrenme yolu
 
