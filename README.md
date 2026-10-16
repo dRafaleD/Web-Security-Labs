@@ -23,6 +23,8 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 11 — API Security: BOLA, Mass Assignment and Rate-Limit Design](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.md)
 - [Day 12 — CSRF, SameSite, Origin Validation and Request Intent](labs/12-csrf-samesite-origin-and-intent/notes.md)
 
+- [Day 13 — CSP, Clickjacking and HTTP Response Headers](labs/13-csp-clickjacking-and-response-headers/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover headers, cookies, sessions, authentication, authorization, browser security controls, XSS, CSRF, SQL injection, path traversal, file upload security, SSRF, and API security.
@@ -51,6 +53,8 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 10 — SSRF Temelleri, URL Ayrıştırma, Redirect ve Egress Güvenliği](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.tr.md)
 - [Gün 11 — API Güvenliği: BOLA, Mass Assignment ve Rate Limit Tasarımı](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.tr.md)
 - [Gün 12 — CSRF, SameSite, Origin Doğrulaması ve İstek Niyeti](labs/12-csrf-samesite-origin-and-intent/notes.tr.md)
+
+- [Gün 13 — CSP, Clickjacking ve HTTP Yanıt Başlıkları](labs/13-csp-clickjacking-and-response-headers/notes.tr.md)
 
 ## Öğrenme yolu
 
