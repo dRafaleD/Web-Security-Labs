@@ -27,6 +27,8 @@ The goal is to understand how web applications communicate before studying vulne
 
 - [Day 14 — CORS Origin Validation, Preflight and Credential Boundaries](labs/14-14-cors-origin-validation-and-preflight/notes.md)
 
+- [Day 15 — Session Fixation, Cookie Rotation and Secure Logout](labs/15-session-fixation-cookie-rotation-and-logout/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover headers, cookies, sessions, authentication, authorization, browser security controls, XSS, CSRF, SQL injection, path traversal, file upload security, SSRF, and API security.
@@ -59,6 +61,8 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 13 — CSP, Clickjacking ve HTTP Yanıt Başlıkları](labs/13-csp-clickjacking-and-response-headers/notes.tr.md)
 
 - [Gün 14 — CORS Origin Doğrulama, Preflight ve Credential Sınırları](labs/14-14-cors-origin-validation-and-preflight/notes.tr.md)
+
+- [Gün 15 — Session Fixation, Çerez Yenileme ve Güvenli Çıkış](labs/15-session-fixation-cookie-rotation-and-logout/notes.tr.md)
 
 ## Öğrenme yolu
 
