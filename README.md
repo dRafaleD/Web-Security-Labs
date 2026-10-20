@@ -31,6 +31,8 @@ The goal is to understand how web applications communicate before studying vulne
 
 - [Day 16 — Password Recovery, Token Expiry and One-Time Use](labs/16-password-recovery-one-time-tokens/notes.md)
 
+- [Day 17 — API Idempotency Keys, Replay Handling and Safe Retries](labs/17-api-idempotency-and-replay-defense/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover headers, cookies, sessions, authentication, authorization, browser security controls, XSS, CSRF, SQL injection, path traversal, file upload security, SSRF, and API security.
@@ -67,6 +69,8 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 15 — Session Fixation, Çerez Yenileme ve Güvenli Çıkış](labs/15-session-fixation-cookie-rotation-and-logout/notes.tr.md)
 
 - [Gün 16 — Parola Kurtarma, Token Süresi ve Tek Kullanım](labs/16-password-recovery-one-time-tokens/notes.tr.md)
+
+- [Gün 17 — API Idempotency Anahtarları, Tekrar Oynatma ve Güvenli Yeniden Deneme](labs/17-api-idempotency-and-replay-defense/notes.tr.md)
 
 ## Öğrenme yolu
 
