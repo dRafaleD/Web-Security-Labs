@@ -33,6 +33,8 @@ The goal is to understand how web applications communicate before studying vulne
 
 - [Day 17 — API Idempotency Keys, Replay Handling and Safe Retries](labs/17-api-idempotency-and-replay-defense/notes.md)
 
+- [Day 18 — API Pagination, Resource Limits and Exhaustion Defense](labs/18-api-pagination-resource-limits/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover headers, cookies, sessions, authentication, authorization, browser security controls, XSS, CSRF, SQL injection, path traversal, file upload security, SSRF, and API security.
@@ -71,6 +73,8 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 16 — Parola Kurtarma, Token Süresi ve Tek Kullanım](labs/16-password-recovery-one-time-tokens/notes.tr.md)
 
 - [Gün 17 — API Idempotency Anahtarları, Tekrar Oynatma ve Güvenli Yeniden Deneme](labs/17-api-idempotency-and-replay-defense/notes.tr.md)
+
+- [Gün 18 — API Sayfalama, Kaynak Limitleri ve Tüketim Koruması](labs/18-api-pagination-resource-limits/notes.tr.md)
 
 ## Öğrenme yolu
 
