@@ -35,6 +35,8 @@ The goal is to understand how web applications communicate before studying vulne
 
 - [Day 18 — API Pagination, Resource Limits and Exhaustion Defense](labs/18-api-pagination-resource-limits/notes.md)
 
+- [Day 19 — JWT Claims, Signature Verification and Authorization Boundaries](labs/19-jwt-signature-claims-and-authorization/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover headers, cookies, sessions, authentication, authorization, browser security controls, XSS, CSRF, SQL injection, path traversal, file upload security, SSRF, and API security.
@@ -75,6 +77,8 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 17 — API Idempotency Anahtarları, Tekrar Oynatma ve Güvenli Yeniden Deneme](labs/17-api-idempotency-and-replay-defense/notes.tr.md)
 
 - [Gün 18 — API Sayfalama, Kaynak Limitleri ve Tüketim Koruması](labs/18-api-pagination-resource-limits/notes.tr.md)
+
+- [Gün 19 — JWT Claim, İmza Doğrulama ve Yetkilendirme Sınırları](labs/19-jwt-signature-claims-and-authorization/notes.tr.md)
 
 ## Öğrenme yolu
 
