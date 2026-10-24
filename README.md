@@ -87,3 +87,9 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 ## Güvenlik
 
 Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak savunmasız eğitim hedeflerinde veya test etmek için açık izin aldığınız sistemlerde gerçekleştirin.
+
+
+## Latest lab
+
+- **Day 20 — File Upload Validation and Safe Storage**
+- [English notes](labs/20-file-upload-validation-and-storage/notes.md) · [Türkçe notlar](labs/20-file-upload-validation-and-storage/notes.tr.md) · [Practical exercise](labs/20-file-upload-validation-and-storage/upload_demo.py)
