@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 20 — File Upload Validation and Safe Storage**
-- [English notes](labs/20-file-upload-validation-and-storage/notes.md) · [Türkçe notlar](labs/20-file-upload-validation-and-storage/notes.tr.md) · [Practical exercise](labs/20-file-upload-validation-and-storage/upload_demo.py)
+- **Day 21 — Open Redirect Prevention: Allow-lists and URL Validation**
+- [English notes](labs/21-open-redirect-allowlists-and-url-validation/notes.md) · [Türkçe notlar](labs/21-open-redirect-allowlists-and-url-validation/notes.tr.md) · [Practical exercise](labs/21-open-redirect-allowlists-and-url-validation/redirect_demo.py)
