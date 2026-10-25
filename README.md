@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 21 — Open Redirect Prevention: Allow-lists and URL Validation**
-- [English notes](labs/21-open-redirect-allowlists-and-url-validation/notes.md) · [Türkçe notlar](labs/21-open-redirect-allowlists-and-url-validation/notes.tr.md) · [Practical exercise](labs/21-open-redirect-allowlists-and-url-validation/redirect_demo.py)
+- **Day 22 — Input Canonicalization Before Validation**
+- [English notes](labs/22-input-canonicalization-before-validation/notes.md) · [Türkçe notlar](labs/22-input-canonicalization-before-validation/notes.tr.md) · [Practical exercise](labs/22-input-canonicalization-before-validation/canonical_demo.py)
