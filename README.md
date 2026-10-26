@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 22 — Input Canonicalization Before Validation**
-- [English notes](labs/22-input-canonicalization-before-validation/notes.md) · [Türkçe notlar](labs/22-input-canonicalization-before-validation/notes.tr.md) · [Practical exercise](labs/22-input-canonicalization-before-validation/canonical_demo.py)
+- **Day 23 — Login Throttling and Account Lockout Design**
+- [English notes](labs/23-login-throttling-and-account-lockout-design/notes.md) · [Türkçe notlar](labs/23-login-throttling-and-account-lockout-design/notes.tr.md) · [Practical exercise](labs/23-login-throttling-and-account-lockout-design/throttle_demo.py)
