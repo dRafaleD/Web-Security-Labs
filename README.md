@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 23 — Login Throttling and Account Lockout Design**
-- [English notes](labs/23-login-throttling-and-account-lockout-design/notes.md) · [Türkçe notlar](labs/23-login-throttling-and-account-lockout-design/notes.tr.md) · [Practical exercise](labs/23-login-throttling-and-account-lockout-design/throttle_demo.py)
+- **Day 24 — Password Hashing, Salts and Constant-Time Comparison**
+- [English notes](labs/24-password-hashing-salts-and-constant-time-compare/notes.md) · [Türkçe notlar](labs/24-password-hashing-salts-and-constant-time-compare/notes.tr.md) · [Practical exercise](labs/24-password-hashing-salts-and-constant-time-compare/password_demo.py)
