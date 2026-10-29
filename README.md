@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 24 — Password Hashing, Salts and Constant-Time Comparison**
-- [English notes](labs/24-password-hashing-salts-and-constant-time-compare/notes.md) · [Türkçe notlar](labs/24-password-hashing-salts-and-constant-time-compare/notes.tr.md) · [Practical exercise](labs/24-password-hashing-salts-and-constant-time-compare/password_demo.py)
+- **Day 25 — Auditing Set-Cookie Attributes**
+- [English notes](labs/25-set-cookie-attribute-audit/notes.md) · [Türkçe notlar](labs/25-set-cookie-attribute-audit/notes.tr.md) · [Practical exercise](labs/25-set-cookie-attribute-audit/cookie_audit.py)
