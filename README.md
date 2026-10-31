@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 26 — Session Idle and Absolute Timeouts**
-- [English notes](labs/26-session-idle-and-absolute-timeouts/notes.md) · [Türkçe notlar](labs/26-session-idle-and-absolute-timeouts/notes.tr.md) · [Practical exercise](labs/26-session-idle-and-absolute-timeouts/timeout_demo.py)
+- **Day 27 — Request Smuggling: Header Ambiguity Checks**
+- [English notes](labs/27-request-smuggling-header-ambiguity-checks/notes.md) · [Türkçe notlar](labs/27-request-smuggling-header-ambiguity-checks/notes.tr.md) · [Practical exercise](labs/27-request-smuggling-header-ambiguity-checks/ambiguity_demo.py)
