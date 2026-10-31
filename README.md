@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 25 — Auditing Set-Cookie Attributes**
-- [English notes](labs/25-set-cookie-attribute-audit/notes.md) · [Türkçe notlar](labs/25-set-cookie-attribute-audit/notes.tr.md) · [Practical exercise](labs/25-set-cookie-attribute-audit/cookie_audit.py)
+- **Day 26 — Session Idle and Absolute Timeouts**
+- [English notes](labs/26-session-idle-and-absolute-timeouts/notes.md) · [Türkçe notlar](labs/26-session-idle-and-absolute-timeouts/notes.tr.md) · [Practical exercise](labs/26-session-idle-and-absolute-timeouts/timeout_demo.py)
