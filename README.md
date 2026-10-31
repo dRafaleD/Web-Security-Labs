@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 30 — Error Handling and Information Disclosure**
-- [English notes](labs/30-error-handling-and-information-disclosure/notes.md) · [Türkçe notlar](labs/30-error-handling-and-information-disclosure/notes.tr.md) · [Practical exercise](labs/30-error-handling-and-information-disclosure/errors_demo.py)
+- **Day 31 — Dependency Pinning and Advisory Checks**
+- [English notes](labs/31-dependency-pinning-and-advisory-checks/notes.md) · [Türkçe notlar](labs/31-dependency-pinning-and-advisory-checks/notes.tr.md) · [Practical exercise](labs/31-dependency-pinning-and-advisory-checks/deps_demo.py)
