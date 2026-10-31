@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 28 — Content-Type Validation and MIME Sniffing**
-- [English notes](labs/28-content-type-validation-and-mime-sniffing/notes.md) · [Türkçe notlar](labs/28-content-type-validation-and-mime-sniffing/notes.tr.md) · [Practical exercise](labs/28-content-type-validation-and-mime-sniffing/mime_demo.py)
+- **Day 29 — Secure Random Tokens: Length and Entropy**
+- [English notes](labs/29-secure-random-tokens-length-and-entropy/notes.md) · [Türkçe notlar](labs/29-secure-random-tokens-length-and-entropy/notes.tr.md) · [Practical exercise](labs/29-secure-random-tokens-length-and-entropy/token_demo.py)
