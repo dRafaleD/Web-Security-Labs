@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 31 — Dependency Pinning and Advisory Checks**
-- [English notes](labs/31-dependency-pinning-and-advisory-checks/notes.md) · [Türkçe notlar](labs/31-dependency-pinning-and-advisory-checks/notes.tr.md) · [Practical exercise](labs/31-dependency-pinning-and-advisory-checks/deps_demo.py)
+- **Day 32 — Sensitive Data Redaction in Web Logs**
+- [English notes](labs/32-sensitive-data-redaction-in-web-logs/notes.md) · [Türkçe notlar](labs/32-sensitive-data-redaction-in-web-logs/notes.tr.md) · [Practical exercise](labs/32-sensitive-data-redaction-in-web-logs/log_redact_demo.py)
