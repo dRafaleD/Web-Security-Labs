@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 29 — Secure Random Tokens: Length and Entropy**
-- [English notes](labs/29-secure-random-tokens-length-and-entropy/notes.md) · [Türkçe notlar](labs/29-secure-random-tokens-length-and-entropy/notes.tr.md) · [Practical exercise](labs/29-secure-random-tokens-length-and-entropy/token_demo.py)
+- **Day 30 — Error Handling and Information Disclosure**
+- [English notes](labs/30-error-handling-and-information-disclosure/notes.md) · [Türkçe notlar](labs/30-error-handling-and-information-disclosure/notes.tr.md) · [Practical exercise](labs/30-error-handling-and-information-disclosure/errors_demo.py)
