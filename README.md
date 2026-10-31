@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 27 — Request Smuggling: Header Ambiguity Checks**
-- [English notes](labs/27-request-smuggling-header-ambiguity-checks/notes.md) · [Türkçe notlar](labs/27-request-smuggling-header-ambiguity-checks/notes.tr.md) · [Practical exercise](labs/27-request-smuggling-header-ambiguity-checks/ambiguity_demo.py)
+- **Day 28 — Content-Type Validation and MIME Sniffing**
+- [English notes](labs/28-content-type-validation-and-mime-sniffing/notes.md) · [Türkçe notlar](labs/28-content-type-validation-and-mime-sniffing/notes.tr.md) · [Practical exercise](labs/28-content-type-validation-and-mime-sniffing/mime_demo.py)
