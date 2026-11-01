@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 32 — Sensitive Data Redaction in Web Logs**
-- [English notes](labs/32-sensitive-data-redaction-in-web-logs/notes.md) · [Türkçe notlar](labs/32-sensitive-data-redaction-in-web-logs/notes.tr.md) · [Practical exercise](labs/32-sensitive-data-redaction-in-web-logs/log_redact_demo.py)
+- **Day 33 — Subresource Integrity Hashes**
+- [English notes](labs/33-subresource-integrity-hashes/notes.md) · [Türkçe notlar](labs/33-subresource-integrity-hashes/notes.tr.md) · [Practical exercise](labs/33-subresource-integrity-hashes/sri_demo.py)
