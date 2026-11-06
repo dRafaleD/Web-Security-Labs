@@ -93,3 +93,7 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 - **Day 34 — Password Policy: Length and Breached-Password Checks**
 - [English notes](labs/34-password-policy-length-and-breached-password-checks/notes.md) · [Türkçe notlar](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md) · [Practical exercise](labs/34-password-policy-length-and-breached-password-checks/policy_demo.py)
+
+### Day 21 — CSRF and SameSite Cookie Boundaries
+
+[English notes](labs/21-csrf-and-samesite-cookie-boundaries/notes.md) · [Türkçe notlar](labs/21-csrf-and-samesite-cookie-boundaries/notes.tr.md) · [Offline Python demo](labs/21-csrf-and-samesite-cookie-boundaries/csrf_demo.py)
