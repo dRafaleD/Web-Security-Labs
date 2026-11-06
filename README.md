@@ -22,20 +22,29 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 10 — SSRF Foundations, URL Parsing, Redirects and Egress Boundaries](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.md)
 - [Day 11 — API Security: BOLA, Mass Assignment and Rate-Limit Design](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.md)
 - [Day 12 — CSRF, SameSite, Origin Validation and Request Intent](labs/12-csrf-samesite-origin-and-intent/notes.md)
-
 - [Day 13 — CSP, Clickjacking and HTTP Response Headers](labs/13-csp-clickjacking-and-response-headers/notes.md)
-
 - [Day 14 — CORS Origin Validation, Preflight and Credential Boundaries](labs/14-14-cors-origin-validation-and-preflight/notes.md)
-
 - [Day 15 — Session Fixation, Cookie Rotation and Secure Logout](labs/15-session-fixation-cookie-rotation-and-logout/notes.md)
-
 - [Day 16 — Password Recovery, Token Expiry and One-Time Use](labs/16-password-recovery-one-time-tokens/notes.md)
-
 - [Day 17 — API Idempotency Keys, Replay Handling and Safe Retries](labs/17-api-idempotency-and-replay-defense/notes.md)
-
 - [Day 18 — API Pagination, Resource Limits and Exhaustion Defense](labs/18-api-pagination-resource-limits/notes.md)
-
 - [Day 19 — JWT Claims, Signature Verification and Authorization Boundaries](labs/19-jwt-signature-claims-and-authorization/notes.md)
+- [Day 20 — File Upload Validation And Storage](labs/20-file-upload-validation-and-storage/notes.md)
+- [Day 21 — Open Redirect Allowlists And URL Validation](labs/21-open-redirect-allowlists-and-url-validation/notes.md)
+- [Bonus — Day 21 — CSRF And Samesite Cookie Boundaries](labs/21-csrf-and-samesite-cookie-boundaries/notes.md)
+- [Day 22 — Input Canonicalization Before Validation](labs/22-input-canonicalization-before-validation/notes.md)
+- [Day 23 — Login Throttling And Account Lockout Design](labs/23-login-throttling-and-account-lockout-design/notes.md)
+- [Day 24 — Password Hashing Salts And Constant Time Compare](labs/24-password-hashing-salts-and-constant-time-compare/notes.md)
+- [Day 25 — Set Cookie Attribute Audit](labs/25-set-cookie-attribute-audit/notes.md)
+- [Day 26 — Session Idle And Absolute Timeouts](labs/26-session-idle-and-absolute-timeouts/notes.md)
+- [Day 27 — Request Smuggling Header Ambiguity Checks](labs/27-request-smuggling-header-ambiguity-checks/notes.md)
+- [Day 28 — Content Type Validation And Mime Sniffing](labs/28-content-type-validation-and-mime-sniffing/notes.md)
+- [Day 29 — Secure Random Tokens Length And Entropy](labs/29-secure-random-tokens-length-and-entropy/notes.md)
+- [Day 30 — Error Handling And Information Disclosure](labs/30-error-handling-and-information-disclosure/notes.md)
+- [Day 31 — Dependency Pinning And Advisory Checks](labs/31-dependency-pinning-and-advisory-checks/notes.md)
+- [Day 32 — Sensitive Data Redaction In Web Logs](labs/32-sensitive-data-redaction-in-web-logs/notes.md)
+- [Day 33 — Subresource Integrity Hashes](labs/33-subresource-integrity-hashes/notes.md)
+- [Day 34 — Password Policy Length And Breached Password Checks](labs/34-password-policy-length-and-breached-password-checks/notes.md)
 
 ## Learning path
 
@@ -65,20 +74,29 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 10 — SSRF Temelleri, URL Ayrıştırma, Redirect ve Egress Güvenliği](labs/10-ssrf-url-parsing-and-egress-boundaries/notes.tr.md)
 - [Gün 11 — API Güvenliği: BOLA, Mass Assignment ve Rate Limit Tasarımı](labs/11-api-security-bola-mass-assignment-and-rate-limits/notes.tr.md)
 - [Gün 12 — CSRF, SameSite, Origin Doğrulaması ve İstek Niyeti](labs/12-csrf-samesite-origin-and-intent/notes.tr.md)
-
 - [Gün 13 — CSP, Clickjacking ve HTTP Yanıt Başlıkları](labs/13-csp-clickjacking-and-response-headers/notes.tr.md)
-
 - [Gün 14 — CORS Origin Doğrulama, Preflight ve Credential Sınırları](labs/14-14-cors-origin-validation-and-preflight/notes.tr.md)
-
 - [Gün 15 — Session Fixation, Çerez Yenileme ve Güvenli Çıkış](labs/15-session-fixation-cookie-rotation-and-logout/notes.tr.md)
-
 - [Gün 16 — Parola Kurtarma, Token Süresi ve Tek Kullanım](labs/16-password-recovery-one-time-tokens/notes.tr.md)
-
 - [Gün 17 — API Idempotency Anahtarları, Tekrar Oynatma ve Güvenli Yeniden Deneme](labs/17-api-idempotency-and-replay-defense/notes.tr.md)
-
 - [Gün 18 — API Sayfalama, Kaynak Limitleri ve Tüketim Koruması](labs/18-api-pagination-resource-limits/notes.tr.md)
-
 - [Gün 19 — JWT Claim, İmza Doğrulama ve Yetkilendirme Sınırları](labs/19-jwt-signature-claims-and-authorization/notes.tr.md)
+- [Gün 20 — File Upload Validation And Storage](labs/20-file-upload-validation-and-storage/notes.tr.md)
+- [Gün 21 — Open Redirect Allowlists And URL Validation](labs/21-open-redirect-allowlists-and-url-validation/notes.tr.md)
+- [Ek çalışma — Gün 21 — CSRF And Samesite Cookie Boundaries](labs/21-csrf-and-samesite-cookie-boundaries/notes.tr.md)
+- [Gün 22 — Input Canonicalization Before Validation](labs/22-input-canonicalization-before-validation/notes.tr.md)
+- [Gün 23 — Login Throttling And Account Lockout Design](labs/23-login-throttling-and-account-lockout-design/notes.tr.md)
+- [Gün 24 — Password Hashing Salts And Constant Time Compare](labs/24-password-hashing-salts-and-constant-time-compare/notes.tr.md)
+- [Gün 25 — Set Cookie Attribute Audit](labs/25-set-cookie-attribute-audit/notes.tr.md)
+- [Gün 26 — Session Idle And Absolute Timeouts](labs/26-session-idle-and-absolute-timeouts/notes.tr.md)
+- [Gün 27 — Request Smuggling Header Ambiguity Checks](labs/27-request-smuggling-header-ambiguity-checks/notes.tr.md)
+- [Gün 28 — Content Type Validation And Mime Sniffing](labs/28-content-type-validation-and-mime-sniffing/notes.tr.md)
+- [Gün 29 — Secure Random Tokens Length And Entropy](labs/29-secure-random-tokens-length-and-entropy/notes.tr.md)
+- [Gün 30 — Error Handling And Information Disclosure](labs/30-error-handling-and-information-disclosure/notes.tr.md)
+- [Gün 31 — Dependency Pinning And Advisory Checks](labs/31-dependency-pinning-and-advisory-checks/notes.tr.md)
+- [Gün 32 — Sensitive Data Redaction In Web Logs](labs/32-sensitive-data-redaction-in-web-logs/notes.tr.md)
+- [Gün 33 — Subresource Integrity Hashes](labs/33-subresource-integrity-hashes/notes.tr.md)
+- [Gün 34 — Password Policy Length And Breached Password Checks](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -94,6 +112,3 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 - **Day 34 — Password Policy: Length and Breached-Password Checks**
 - [English notes](labs/34-password-policy-length-and-breached-password-checks/notes.md) · [Türkçe notlar](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md) · [Practical exercise](labs/34-password-policy-length-and-breached-password-checks/policy_demo.py)
 
-### Day 21 — CSRF and SameSite Cookie Boundaries
-
-[English notes](labs/21-csrf-and-samesite-cookie-boundaries/notes.md) · [Türkçe notlar](labs/21-csrf-and-samesite-cookie-boundaries/notes.tr.md) · [Offline Python demo](labs/21-csrf-and-samesite-cookie-boundaries/csrf_demo.py)
