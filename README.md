@@ -91,5 +91,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 33 — Subresource Integrity Hashes**
-- [English notes](labs/33-subresource-integrity-hashes/notes.md) · [Türkçe notlar](labs/33-subresource-integrity-hashes/notes.tr.md) · [Practical exercise](labs/33-subresource-integrity-hashes/sri_demo.py)
+- **Day 34 — Password Policy: Length and Breached-Password Checks**
+- [English notes](labs/34-password-policy-length-and-breached-password-checks/notes.md) · [Türkçe notlar](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md) · [Practical exercise](labs/34-password-policy-length-and-breached-password-checks/policy_demo.py)
