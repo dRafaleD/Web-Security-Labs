@@ -45,6 +45,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 32 — Sensitive Data Redaction In Web Logs](labs/32-sensitive-data-redaction-in-web-logs/notes.md)
 - [Day 33 — Subresource Integrity Hashes](labs/33-subresource-integrity-hashes/notes.md)
 - [Day 34 — Password Policy Length And Breached Password Checks](labs/34-password-policy-length-and-breached-password-checks/notes.md)
+- [Day 35 — Safe API Error Responses and Data Minimization](labs/35-api-error-response-data-minimization/notes.md)
 
 ## Learning path
 
@@ -97,6 +98,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 32 — Sensitive Data Redaction In Web Logs](labs/32-sensitive-data-redaction-in-web-logs/notes.tr.md)
 - [Gün 33 — Subresource Integrity Hashes](labs/33-subresource-integrity-hashes/notes.tr.md)
 - [Gün 34 — Password Policy Length And Breached Password Checks](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md)
+- [Gün 35 — Güvenli API Hata Yanıtları ve Veri Minimizasyonu](labs/35-api-error-response-data-minimization/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -109,6 +111,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 34 — Password Policy: Length and Breached-Password Checks**
-- [English notes](labs/34-password-policy-length-and-breached-password-checks/notes.md) · [Türkçe notlar](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md) · [Practical exercise](labs/34-password-policy-length-and-breached-password-checks/policy_demo.py)
-
+- **Day 35 — Safe API Error Responses and Data Minimization**
+- [English notes](labs/35-api-error-response-data-minimization/notes.md) · [Türkçe notlar](labs/35-api-error-response-data-minimization/notes.tr.md) · [Practical exercise](labs/35-api-error-response-data-minimization/error_demo.py)
