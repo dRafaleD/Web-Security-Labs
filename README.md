@@ -46,6 +46,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 33 — Subresource Integrity Hashes](labs/33-subresource-integrity-hashes/notes.md)
 - [Day 34 — Password Policy Length And Breached Password Checks](labs/34-password-policy-length-and-breached-password-checks/notes.md)
 - [Day 35 — Safe API Error Responses and Data Minimization](labs/35-api-error-response-data-minimization/notes.md)
+- [Day 36 — Webhook HMAC Signatures and Replay Windows](labs/36-webhook-hmac-signatures-and-replay-windows/notes.md)
 
 ## Learning path
 
@@ -99,6 +100,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 33 — Subresource Integrity Hashes](labs/33-subresource-integrity-hashes/notes.tr.md)
 - [Gün 34 — Password Policy Length And Breached Password Checks](labs/34-password-policy-length-and-breached-password-checks/notes.tr.md)
 - [Gün 35 — Güvenli API Hata Yanıtları ve Veri Minimizasyonu](labs/35-api-error-response-data-minimization/notes.tr.md)
+- [Gün 36 — Webhook HMAC İmzaları ve Replay Süresi](labs/36-webhook-hmac-signatures-and-replay-windows/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -111,5 +113,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 35 — Safe API Error Responses and Data Minimization**
-- [English notes](labs/35-api-error-response-data-minimization/notes.md) · [Türkçe notlar](labs/35-api-error-response-data-minimization/notes.tr.md) · [Practical exercise](labs/35-api-error-response-data-minimization/error_demo.py)
+- **Day 36 — Webhook HMAC Signatures and Replay Windows**
+- [English notes](labs/36-webhook-hmac-signatures-and-replay-windows/notes.md) · [Türkçe notlar](labs/36-webhook-hmac-signatures-and-replay-windows/notes.tr.md) · [Practical exercise](labs/36-webhook-hmac-signatures-and-replay-windows/webhook_demo.py)
