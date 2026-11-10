@@ -48,6 +48,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 35 — Safe API Error Responses and Data Minimization](labs/35-api-error-response-data-minimization/notes.md)
 - [Day 36 — Webhook HMAC Signatures and Replay Windows](labs/36-webhook-hmac-signatures-and-replay-windows/notes.md)
 - [Day 37 — JSON Body Limits and Duplicate Keys](labs/37-json-body-limits-and-duplicate-keys/notes.md)
+- [Day 38 — JSON Schema and Mass Assignment Guard](labs/38-json-schema-and-mass-assignment-guard/notes.md)
 
 ## Learning path
 
@@ -103,6 +104,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 35 — Güvenli API Hata Yanıtları ve Veri Minimizasyonu](labs/35-api-error-response-data-minimization/notes.tr.md)
 - [Gün 36 — Webhook HMAC İmzaları ve Replay Süresi](labs/36-webhook-hmac-signatures-and-replay-windows/notes.tr.md)
 - [Gün 37 — JSON Gövde Sınırları ve Yinelenen Anahtarlar](labs/37-json-body-limits-and-duplicate-keys/notes.tr.md)
+- [Gün 38 — JSON Şeması ve Toplu Alan Atama Savunması](labs/38-json-schema-and-mass-assignment-guard/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -115,5 +117,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 37 — JSON Request Limits and Duplicate Keys**
-- [English notes](labs/37-json-body-limits-and-duplicate-keys/notes.md) · [Türkçe notlar](labs/37-json-body-limits-and-duplicate-keys/notes.tr.md) · [Practical exercise](labs/37-json-body-limits-and-duplicate-keys/json_guard_demo.py)
+- **Day 38 — JSON Schema and Mass Assignment Guard**
+- [English notes](labs/38-json-schema-and-mass-assignment-guard/notes.md) · [Türkçe notlar](labs/38-json-schema-and-mass-assignment-guard/notes.tr.md) · [Practical exercise](labs/38-json-schema-and-mass-assignment-guard/schema_guard_demo.py)
