@@ -49,6 +49,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 36 — Webhook HMAC Signatures and Replay Windows](labs/36-webhook-hmac-signatures-and-replay-windows/notes.md)
 - [Day 37 — JSON Body Limits and Duplicate Keys](labs/37-json-body-limits-and-duplicate-keys/notes.md)
 - [Day 38 — JSON Schema and Mass Assignment Guard](labs/38-json-schema-and-mass-assignment-guard/notes.md)
+- [Day 39 — PATCH Field Authorization and Version Checks](labs/39-patch-field-authorization-and-version-checks/notes.md)
 
 ## Learning path
 
@@ -105,6 +106,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 36 — Webhook HMAC İmzaları ve Replay Süresi](labs/36-webhook-hmac-signatures-and-replay-windows/notes.tr.md)
 - [Gün 37 — JSON Gövde Sınırları ve Yinelenen Anahtarlar](labs/37-json-body-limits-and-duplicate-keys/notes.tr.md)
 - [Gün 38 — JSON Şeması ve Toplu Alan Atama Savunması](labs/38-json-schema-and-mass-assignment-guard/notes.tr.md)
+- [Gün 39 — PATCH Alan Yetkisi ve Sürüm Kontrolü](labs/39-patch-field-authorization-and-version-checks/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -117,5 +119,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 38 — JSON Schema and Mass Assignment Guard**
-- [English notes](labs/38-json-schema-and-mass-assignment-guard/notes.md) · [Türkçe notlar](labs/38-json-schema-and-mass-assignment-guard/notes.tr.md) · [Practical exercise](labs/38-json-schema-and-mass-assignment-guard/schema_guard_demo.py)
+- **Day 39 — PATCH Field Authorization and Version Checks**
+- [English notes](labs/39-patch-field-authorization-and-version-checks/notes.md) · [Türkçe notlar](labs/39-patch-field-authorization-and-version-checks/notes.tr.md) · [Practical exercise](labs/39-patch-field-authorization-and-version-checks/patch_guard_demo.py)
