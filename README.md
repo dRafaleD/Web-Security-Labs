@@ -51,6 +51,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 38 — JSON Schema and Mass Assignment Guard](labs/38-json-schema-and-mass-assignment-guard/notes.md)
 - [Day 39 — PATCH Field Authorization and Version Checks](labs/39-patch-field-authorization-and-version-checks/notes.md)
 - [Day 40 — Idempotency Keys and Replay-Safe PATCH](labs/40-idempotency-keys-and-replay-safe-patch/notes.md)
+- [Day 41 — Idempotency Expiry and Replay Boundaries](labs/41-idempotency-expiry-and-replay-boundaries/notes.md)
 
 ## Learning path
 
@@ -109,6 +110,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 38 — JSON Şeması ve Toplu Alan Atama Savunması](labs/38-json-schema-and-mass-assignment-guard/notes.tr.md)
 - [Gün 39 — PATCH Alan Yetkisi ve Sürüm Kontrolü](labs/39-patch-field-authorization-and-version-checks/notes.tr.md)
 - [Gün 40 — PATCH Tekrarları ve Idempotency Key](labs/40-idempotency-keys-and-replay-safe-patch/notes.tr.md)
+- [Gün 41 — Idempotency Süresi ve Replay Sınırları](labs/41-idempotency-expiry-and-replay-boundaries/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -121,5 +123,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 40 — Idempotency Keys and Replay-Safe PATCH Requests**
-- [English notes](labs/40-idempotency-keys-and-replay-safe-patch/notes.md) · [Türkçe notlar](labs/40-idempotency-keys-and-replay-safe-patch/notes.tr.md) · [Practical exercise](labs/40-idempotency-keys-and-replay-safe-patch/idempotency_demo.py)
+- **Day 41 — Idempotency Expiry and Replay Boundaries**
+- [English notes](labs/41-idempotency-expiry-and-replay-boundaries/notes.md) · [Türkçe notlar](labs/41-idempotency-expiry-and-replay-boundaries/notes.tr.md) · [Practice](labs/41-idempotency-expiry-and-replay-boundaries/expiry_demo.py)
