@@ -52,6 +52,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 39 — PATCH Field Authorization and Version Checks](labs/39-patch-field-authorization-and-version-checks/notes.md)
 - [Day 40 — Idempotency Keys and Replay-Safe PATCH](labs/40-idempotency-keys-and-replay-safe-patch/notes.md)
 - [Day 41 — Idempotency Expiry and Replay Boundaries](labs/41-idempotency-expiry-and-replay-boundaries/notes.md)
+- [Day 42 — Concurrent Retries, Version Checks and Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.md)
 
 ## Learning path
 
@@ -111,6 +112,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 39 — PATCH Alan Yetkisi ve Sürüm Kontrolü](labs/39-patch-field-authorization-and-version-checks/notes.tr.md)
 - [Gün 40 — PATCH Tekrarları ve Idempotency Key](labs/40-idempotency-keys-and-replay-safe-patch/notes.tr.md)
 - [Gün 41 — Idempotency Süresi ve Replay Sınırları](labs/41-idempotency-expiry-and-replay-boundaries/notes.tr.md)
+- [Gün 42 — Eşzamanlı İstekler, Sürüm ve Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -123,5 +125,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 41 — Idempotency Expiry and Replay Boundaries**
-- [English notes](labs/41-idempotency-expiry-and-replay-boundaries/notes.md) · [Türkçe notlar](labs/41-idempotency-expiry-and-replay-boundaries/notes.tr.md) · [Practice](labs/41-idempotency-expiry-and-replay-boundaries/expiry_demo.py)
+- **Day 42 — Concurrent Retries, Version Checks and Idempotency**
+- [English notes](labs/42-concurrent-retries-version-checks-and-idempotency/notes.md) · [Türkçe notlar](labs/42-concurrent-retries-version-checks-and-idempotency/notes.tr.md) · [Python exercise](labs/42-concurrent-retries-version-checks-and-idempotency/race_demo.py)
