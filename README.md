@@ -53,6 +53,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 40 — Idempotency Keys and Replay-Safe PATCH](labs/40-idempotency-keys-and-replay-safe-patch/notes.md)
 - [Day 41 — Idempotency Expiry and Replay Boundaries](labs/41-idempotency-expiry-and-replay-boundaries/notes.md)
 - [Day 42 — Concurrent Retries, Version Checks and Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.md)
+- [Day 43 — Idempotency Pending States and Retry Decisions](labs/43-idempotency-pending-states-and-retry-decisions/notes.md)
 
 ## Learning path
 
@@ -113,6 +114,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 40 — PATCH Tekrarları ve Idempotency Key](labs/40-idempotency-keys-and-replay-safe-patch/notes.tr.md)
 - [Gün 41 — Idempotency Süresi ve Replay Sınırları](labs/41-idempotency-expiry-and-replay-boundaries/notes.tr.md)
 - [Gün 42 — Eşzamanlı İstekler, Sürüm ve Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.tr.md)
+- [Gün 43 — Idempotency PENDING Durumu ve Tekrar İstek Kararları](labs/43-idempotency-pending-states-and-retry-decisions/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -125,5 +127,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 42 — Concurrent Retries, Version Checks and Idempotency**
-- [English notes](labs/42-concurrent-retries-version-checks-and-idempotency/notes.md) · [Türkçe notlar](labs/42-concurrent-retries-version-checks-and-idempotency/notes.tr.md) · [Python exercise](labs/42-concurrent-retries-version-checks-and-idempotency/race_demo.py)
+- **Day 43 — Idempotency Pending States and Retry Decisions**
+- [English notes](labs/43-idempotency-pending-states-and-retry-decisions/notes.md) · [Türkçe notlar](labs/43-idempotency-pending-states-and-retry-decisions/notes.tr.md) · [Python exercise](labs/43-idempotency-pending-states-and-retry-decisions/pending_demo.py)
