@@ -54,6 +54,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 41 — Idempotency Expiry and Replay Boundaries](labs/41-idempotency-expiry-and-replay-boundaries/notes.md)
 - [Day 42 — Concurrent Retries, Version Checks and Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.md)
 - [Day 43 — Idempotency Pending States and Retry Decisions](labs/43-idempotency-pending-states-and-retry-decisions/notes.md)
+- [Day 44 — Pending Lease Expiry and Fencing Tokens](labs/44-pending-lease-expiry-and-fencing-tokens/notes.md)
 
 ## Learning path
 
@@ -115,6 +116,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 41 — Idempotency Süresi ve Replay Sınırları](labs/41-idempotency-expiry-and-replay-boundaries/notes.tr.md)
 - [Gün 42 — Eşzamanlı İstekler, Sürüm ve Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.tr.md)
 - [Gün 43 — Idempotency PENDING Durumu ve Tekrar İstek Kararları](labs/43-idempotency-pending-states-and-retry-decisions/notes.tr.md)
+- [Gün 44 — Bekleyen İşlem Kiraları ve Fencing Token](labs/44-pending-lease-expiry-and-fencing-tokens/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -127,5 +129,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 43 — Idempotency Pending States and Retry Decisions**
-- [English notes](labs/43-idempotency-pending-states-and-retry-decisions/notes.md) · [Türkçe notlar](labs/43-idempotency-pending-states-and-retry-decisions/notes.tr.md) · [Python exercise](labs/43-idempotency-pending-states-and-retry-decisions/pending_demo.py)
+- **Day 44 — Pending Lease Expiry and Fencing Tokens**
+- [English notes](labs/44-pending-lease-expiry-and-fencing-tokens/notes.md) · [Türkçe notlar](labs/44-pending-lease-expiry-and-fencing-tokens/notes.tr.md) · [Python exercise](labs/44-pending-lease-expiry-and-fencing-tokens/lease_fencing_demo.py)
