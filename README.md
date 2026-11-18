@@ -55,6 +55,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 42 — Concurrent Retries, Version Checks and Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.md)
 - [Day 43 — Idempotency Pending States and Retry Decisions](labs/43-idempotency-pending-states-and-retry-decisions/notes.md)
 - [Day 44 — Pending Lease Expiry and Fencing Tokens](labs/44-pending-lease-expiry-and-fencing-tokens/notes.md)
+- [Day 45 — Canonical Request Fingerprints and Scoped Idempotency](labs/45-canonical-request-fingerprints-and-scoped-idempotency/notes.md)
 
 ## Learning path
 
@@ -117,6 +118,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 42 — Eşzamanlı İstekler, Sürüm ve Idempotency](labs/42-concurrent-retries-version-checks-and-idempotency/notes.tr.md)
 - [Gün 43 — Idempotency PENDING Durumu ve Tekrar İstek Kararları](labs/43-idempotency-pending-states-and-retry-decisions/notes.tr.md)
 - [Gün 44 — Bekleyen İşlem Kiraları ve Fencing Token](labs/44-pending-lease-expiry-and-fencing-tokens/notes.tr.md)
+- [Gün 45 — Standart İstek Özeti ve Idempotency Kapsamı](labs/45-canonical-request-fingerprints-and-scoped-idempotency/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -129,5 +131,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 44 — Pending Lease Expiry and Fencing Tokens**
-- [English notes](labs/44-pending-lease-expiry-and-fencing-tokens/notes.md) · [Türkçe notlar](labs/44-pending-lease-expiry-and-fencing-tokens/notes.tr.md) · [Python exercise](labs/44-pending-lease-expiry-and-fencing-tokens/lease_fencing_demo.py)
+- **Day 45 — Canonical Request Fingerprints and Scoped Idempotency**
+- [English notes](labs/45-canonical-request-fingerprints-and-scoped-idempotency/notes.md) · [Türkçe notlar](labs/45-canonical-request-fingerprints-and-scoped-idempotency/notes.tr.md) · [Python practice](labs/45-canonical-request-fingerprints-and-scoped-idempotency/canonical_idempotency_demo.py)
