@@ -57,6 +57,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 44 — Pending Lease Expiry and Fencing Tokens](labs/44-pending-lease-expiry-and-fencing-tokens/notes.md)
 - [Day 45 — Canonical Request Fingerprints and Scoped Idempotency](labs/45-canonical-request-fingerprints-and-scoped-idempotency/notes.md)
 - [Day 46 — Duplicate JSON Keys and Canonical Request Identity](labs/46-duplicate-json-keys-and-canonical-request-identity/notes.md)
+- [Day 47 — Request Size, Nesting Depth and Idempotency Boundaries](labs/47-request-size-depth-and-idempotency-boundaries/notes.md)
 
 ## Learning path
 
@@ -121,6 +122,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 44 — Bekleyen İşlem Kiraları ve Fencing Token](labs/44-pending-lease-expiry-and-fencing-tokens/notes.tr.md)
 - [Gün 45 — Standart İstek Özeti ve Idempotency Kapsamı](labs/45-canonical-request-fingerprints-and-scoped-idempotency/notes.tr.md)
 - [Gün 46 — JSON Tekrar Anahtarlar ve İstek Kimliği](labs/46-duplicate-json-keys-and-canonical-request-identity/notes.tr.md)
+- [Gün 47 — JSON Boyut/Derinlik Sınırları ve Idempotency](labs/47-request-size-depth-and-idempotency-boundaries/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -133,5 +135,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 46 — Duplicate JSON Keys and Canonical Request Identity**
-- [English notes](labs/46-duplicate-json-keys-and-canonical-request-identity/notes.md) · [Türkçe notlar](labs/46-duplicate-json-keys-and-canonical-request-identity/notes.tr.md) · [Python exercise](labs/46-duplicate-json-keys-and-canonical-request-identity/strict_json_demo.py)
+- **Day 47 — Request Size, Nesting Depth and Idempotency Boundaries**
+- [English notes](labs/47-request-size-depth-and-idempotency-boundaries/notes.md) · [Türkçe notlar](labs/47-request-size-depth-and-idempotency-boundaries/notes.tr.md) · [Python exercise](labs/47-request-size-depth-and-idempotency-boundaries/request_limits_demo.py)
