@@ -59,6 +59,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 46 — Duplicate JSON Keys and Canonical Request Identity](labs/46-duplicate-json-keys-and-canonical-request-identity/notes.md)
 - [Day 47 — Request Size, Nesting Depth and Idempotency Boundaries](labs/47-request-size-depth-and-idempotency-boundaries/notes.md)
 - [Day 48 — Unicode Normalization and Idempotency Equivalence](labs/48-unicode-normalization-and-idempotency-equivalence/notes.md)
+- [Day 49 — Versioned Unicode Canonicalization and Idempotency Retries](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.md)
 
 ## Learning path
 
@@ -125,6 +126,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 46 — JSON Tekrar Anahtarlar ve İstek Kimliği](labs/46-duplicate-json-keys-and-canonical-request-identity/notes.tr.md)
 - [Gün 47 — JSON Boyut/Derinlik Sınırları ve Idempotency](labs/47-request-size-depth-and-idempotency-boundaries/notes.tr.md)
 - [Gün 48 — Unicode Normalizasyonu ve Idempotency Eşitliği](labs/48-unicode-normalization-and-idempotency-equivalence/notes.tr.md)
+- [Gün 49 — Sürümlü Unicode Normalizasyonu ve Idempotency](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -137,5 +139,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 48 — Unicode Normalization and Idempotency Equivalence**
-- [English notes](labs/48-unicode-normalization-and-idempotency-equivalence/notes.md) · [Türkçe notlar](labs/48-unicode-normalization-and-idempotency-equivalence/notes.tr.md) · [Python exercise](labs/48-unicode-normalization-and-idempotency-equivalence/unicode_idempotency_demo.py)
+- **Day 49 — Versioned Unicode Canonicalization and Idempotency Retries**
+- [English notes](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.md) · [Türkçe notlar](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.tr.md) · [Python exercise](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/policy_migration_demo.py)
