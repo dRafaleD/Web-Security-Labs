@@ -61,6 +61,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 48 — Unicode Normalization and Idempotency Equivalence](labs/48-unicode-normalization-and-idempotency-equivalence/notes.md)
 - [Day 49 — Versioned Unicode Canonicalization and Idempotency Retries](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.md)
 - [Day 50 — Idempotency Key Expiry and Reuse Tombstones](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.md)
+- [Day 51 — Idempotent Operation Receipts and Reconciliation](labs/51-idempotent-operation-receipts-and-reconciliation/notes.md)
 
 ## Learning path
 
@@ -129,6 +130,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 48 — Unicode Normalizasyonu ve Idempotency Eşitliği](labs/48-unicode-normalization-and-idempotency-equivalence/notes.tr.md)
 - [Gün 49 — Sürümlü Unicode Normalizasyonu ve Idempotency](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.tr.md)
 - [Gün 50 — Idempotency Anahtarı Süresi ve Tombstone](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.tr.md)
+- [Gün 51 — Idempotent İşlem Makbuzları ve Uzlaştırma](labs/51-idempotent-operation-receipts-and-reconciliation/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -141,5 +143,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 50 — Idempotency Key Expiry and Reuse Tombstones**
-- [English notes](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.md) · [Türkçe notlar](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.tr.md) · [Python exercise](labs/50-idempotency-key-expiry-and-reuse-tombstones/expiry_tombstone_demo.py)
+- **Day 51 — Idempotent Operation Receipts and Reconciliation**
+- [English notes](labs/51-idempotent-operation-receipts-and-reconciliation/notes.md) · [Türkçe notlar](labs/51-idempotent-operation-receipts-and-reconciliation/notes.tr.md) · [Python exercise](labs/51-idempotent-operation-receipts-and-reconciliation/receipt_demo.py)
