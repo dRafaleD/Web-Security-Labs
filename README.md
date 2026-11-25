@@ -62,6 +62,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 49 — Versioned Unicode Canonicalization and Idempotency Retries](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.md)
 - [Day 50 — Idempotency Key Expiry and Reuse Tombstones](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.md)
 - [Day 51 — Idempotent Operation Receipts and Reconciliation](labs/51-idempotent-operation-receipts-and-reconciliation/notes.md)
+- [Day 52 — Practice Day: Object Authorization and Response Contracts](labs/52-object-authorization-matrix-practice/notes.md)
 
 ## Learning path
 
@@ -131,6 +132,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 49 — Sürümlü Unicode Normalizasyonu ve Idempotency](labs/49-versioned-unicode-canonicalization-and-idempotency-retries/notes.tr.md)
 - [Gün 50 — Idempotency Anahtarı Süresi ve Tombstone](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.tr.md)
 - [Gün 51 — Idempotent İşlem Makbuzları ve Uzlaştırma](labs/51-idempotent-operation-receipts-and-reconciliation/notes.tr.md)
+- [Gün 52 — Uygulama Günü: Nesne Yetkilendirmesi ve Yanıt Sözleşmesi](labs/52-object-authorization-matrix-practice/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -143,5 +145,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 51 — Idempotent Operation Receipts and Reconciliation**
-- [English notes](labs/51-idempotent-operation-receipts-and-reconciliation/notes.md) · [Türkçe notlar](labs/51-idempotent-operation-receipts-and-reconciliation/notes.tr.md) · [Python exercise](labs/51-idempotent-operation-receipts-and-reconciliation/receipt_demo.py)
+- **Day 52 — Practice Day: Object Authorization and Response Contracts**
+- [English notes](labs/52-object-authorization-matrix-practice/notes.md) · [Türkçe notlar](labs/52-object-authorization-matrix-practice/notes.tr.md) · [Python exercise](labs/52-object-authorization-matrix-practice/authorization_matrix.py)
