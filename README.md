@@ -64,6 +64,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 51 — Idempotent Operation Receipts and Reconciliation](labs/51-idempotent-operation-receipts-and-reconciliation/notes.md)
 - [Day 52 — Practice Day: Object Authorization and Response Contracts](labs/52-object-authorization-matrix-practice/notes.md)
 - [Day 53 — Response Field Allowlists and Role-Specific DTOs](labs/53-response-field-allowlists-and-role-specific-dtos/notes.md)
+- [Day 54 — Response Contract Regression Tests](labs/54-response-contract-regression-tests/notes.md)
 
 ## Learning path
 
@@ -135,6 +136,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 51 — Idempotent İşlem Makbuzları ve Uzlaştırma](labs/51-idempotent-operation-receipts-and-reconciliation/notes.tr.md)
 - [Gün 52 — Uygulama Günü: Nesne Yetkilendirmesi ve Yanıt Sözleşmesi](labs/52-object-authorization-matrix-practice/notes.tr.md)
 - [Gün 53 — Yanıt Alanı İzin Listesi ve Role Özel DTO](labs/53-response-field-allowlists-and-role-specific-dtos/notes.tr.md)
+- [Gün 54 — Yanıt Sözleşmesi Regresyon Testleri](labs/54-response-contract-regression-tests/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -147,5 +149,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 53 — Response Field Allowlists and Role-Specific DTOs**
-- [English notes](labs/53-response-field-allowlists-and-role-specific-dtos/notes.md) · [Türkçe notlar](labs/53-response-field-allowlists-and-role-specific-dtos/notes.tr.md) · [Python exercise](labs/53-response-field-allowlists-and-role-specific-dtos/response_dto.py)
+- **Day 54 — Response Contract Regression Tests**
+- [English notes](labs/54-response-contract-regression-tests/notes.md) · [Türkçe notlar](labs/54-response-contract-regression-tests/notes.tr.md) · [Python exercise](labs/54-response-contract-regression-tests/contract_checks.py)
