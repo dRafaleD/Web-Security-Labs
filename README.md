@@ -63,6 +63,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 50 — Idempotency Key Expiry and Reuse Tombstones](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.md)
 - [Day 51 — Idempotent Operation Receipts and Reconciliation](labs/51-idempotent-operation-receipts-and-reconciliation/notes.md)
 - [Day 52 — Practice Day: Object Authorization and Response Contracts](labs/52-object-authorization-matrix-practice/notes.md)
+- [Day 53 — Response Field Allowlists and Role-Specific DTOs](labs/53-response-field-allowlists-and-role-specific-dtos/notes.md)
 
 ## Learning path
 
@@ -133,6 +134,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 50 — Idempotency Anahtarı Süresi ve Tombstone](labs/50-idempotency-key-expiry-and-reuse-tombstones/notes.tr.md)
 - [Gün 51 — Idempotent İşlem Makbuzları ve Uzlaştırma](labs/51-idempotent-operation-receipts-and-reconciliation/notes.tr.md)
 - [Gün 52 — Uygulama Günü: Nesne Yetkilendirmesi ve Yanıt Sözleşmesi](labs/52-object-authorization-matrix-practice/notes.tr.md)
+- [Gün 53 — Yanıt Alanı İzin Listesi ve Role Özel DTO](labs/53-response-field-allowlists-and-role-specific-dtos/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -145,5 +147,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 52 — Practice Day: Object Authorization and Response Contracts**
-- [English notes](labs/52-object-authorization-matrix-practice/notes.md) · [Türkçe notlar](labs/52-object-authorization-matrix-practice/notes.tr.md) · [Python exercise](labs/52-object-authorization-matrix-practice/authorization_matrix.py)
+- **Day 53 — Response Field Allowlists and Role-Specific DTOs**
+- [English notes](labs/53-response-field-allowlists-and-role-specific-dtos/notes.md) · [Türkçe notlar](labs/53-response-field-allowlists-and-role-specific-dtos/notes.tr.md) · [Python exercise](labs/53-response-field-allowlists-and-role-specific-dtos/response_dto.py)
