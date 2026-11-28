@@ -66,6 +66,7 @@ The goal is to understand how web applications communicate before studying vulne
 - [Day 53 — Response Field Allowlists and Role-Specific DTOs](labs/53-response-field-allowlists-and-role-specific-dtos/notes.md)
 - [Day 54 — Response Contract Regression Tests](labs/54-response-contract-regression-tests/notes.md)
 - [Day 55 — Nested Response Contracts and Projection](labs/55-nested-response-contracts-and-projection/notes.md)
+- [Day 56 — Collection Response Contracts and Item Validation](labs/56-collection-response-contracts-and-item-validation/notes.md)
 
 ## Learning path
 
@@ -139,6 +140,7 @@ Amaç güvenlik açıklarını incelemeden önce web uygulamalarının nasıl il
 - [Gün 53 — Yanıt Alanı İzin Listesi ve Role Özel DTO](labs/53-response-field-allowlists-and-role-specific-dtos/notes.tr.md)
 - [Gün 54 — Yanıt Sözleşmesi Regresyon Testleri](labs/54-response-contract-regression-tests/notes.tr.md)
 - [Gün 55 — İç İçe API Yanıt Sözleşmeleri ve Alan Projeksiyonu](labs/55-nested-response-contracts-and-projection/notes.tr.md)
+- [Gün 56 — Liste Yanıtı Sözleşmeleri ve Öğe Doğrulama](labs/56-collection-response-contracts-and-item-validation/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -151,5 +153,5 @@ Güvenlik testlerini yalnızca sahibi olduğunuz uygulamalarda, kasıtlı olarak
 
 ## Latest lab
 
-- **Day 55 — Nested Response Contracts and Projection**
-- [English notes](labs/55-nested-response-contracts-and-projection/notes.md) · [Türkçe notlar](labs/55-nested-response-contracts-and-projection/notes.tr.md) · [Python exercise](labs/55-nested-response-contracts-and-projection/nested_dto.py)
+- **Day 56 — Collection Response Contracts and Item Validation**
+- [English notes](labs/56-collection-response-contracts-and-item-validation/notes.md) · [Türkçe notlar](labs/56-collection-response-contracts-and-item-validation/notes.tr.md) · [Python exercise](labs/56-collection-response-contracts-and-item-validation/collection_contract.py)
